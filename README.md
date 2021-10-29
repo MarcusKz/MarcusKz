@@ -1,19 +1,17 @@
-Olá devs,tudo tranquilo?vou falar um pouco sobre mim.
-
-Me chamo Marcus e tenho 20 anos
-
-Sou de Salvador-Bahia,sim sou da cidade do carnaval e não,na bahia não comemos acarajé todo dia! :)
-
-Sou um aspirante a programador back end.
-Estou estudando pela plataforma da Alura a algum tempo e em breve devo publicar por aqui alguns projetinhos!
-
-Meu interesse por programação surgiu no meiado de 2021,desde então não consigo pensar em outra profissão que eu possa seguir além dessa.
-Estudo de forma autodidata desde Agosto de 2021,
-Em outubro eu resolvi assinar a plataforma da alura e desde então não consigo fazer outra coisa além de estudar e escrever codigos!
-
-Vocês vão ouvir falar de mim,pode ter certeza!
 
 
+<div align="center">
+  <a href="https://github.com/MarcusKz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusKz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusKz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="MarcusKz-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-
-
+</div>
